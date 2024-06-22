@@ -1,0 +1,6 @@
+#!/bin/bash
+
+NEWLINE=$'\n'
+#PROMPT="${NEWLINE}%K{green} %F{239}%n%f%k%K{magenta}%F{green}%f%k%K{magenta} %F{239}%1~%f %k%F{magenta}%f "
+#PROMPT="%F{green}%f%K{green}%F{239} %n %f%k%K{magenta}%F{green}%f%k%K{magenta}%F{239} %1~ %f%k%F{magenta}%f${NEWLINE} "
+PROMPT="%F{magenta}%n%f %F{green}%1~%f %F{yellow}󱦰%f "

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+alias ls='ls --color=auto'
+alias la='ls -gha --color=auto'
+
+alias grep='grep --color=auto'
+
+alias swayconf='v $XDG_CONFIG_HOME/sway/'
+alias zshconf='v $XDG_CONFIG_HOME/zsh/'
+alias nvconf='v $XDG_CONFIG_HOME/nvim/'
