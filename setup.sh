@@ -10,3 +10,4 @@ mkdir "$XDG_CONFIG_HOME"/bin
 mkdir "$XDG_CONFIG_HOME"/share
 mkdir "$XDG_CONFIG_HOME"/share/zsh
 
+touch "$XDG_CONFIG_HOME"/share/zsh/history
